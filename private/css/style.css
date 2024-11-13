@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;     /* Centraliza verticalmente */
+    height: 100vh;           /* Usa 100% da altura da tela */
+    margin: 0;               /* Remove a margem padrão */
+    font-family: Arial, sans-serif;
+    background-color: #d3d3d3; /* Cor de fundo suave */
+}
